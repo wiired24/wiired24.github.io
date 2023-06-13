@@ -21,7 +21,7 @@ What's going to happen at this point is Godot is going to take the label node we
 
 ![Alt Text](https://images2.imgbox.com/6f/07/Jzqgn4k3_o.png)
 
-At first the text may appear a tad small. If you would like to be larger simply navigate to the "Label Settings" on the right panel and click into it. Select New Label Settings. Click on it once and you should see a few options populate one of those being font. Click on font and you see an option for font size. This is where you can increase the size of the text. I set mine to 40 but you're free to do whatever you would like here. Now once you have a size you're good with, go ahead and select the label box by left clicking. Hold ALT and drag it to the center. Your screen should look somewhat like this. 
+At first the text may appear a tad small. If you would like it to be larger simply navigate to the "Label Settings" on the right panel and click into it. Select New Label Settings. Click on it once and you should see a few options populate one of those being font. Click on font and you see an option for font size. This is where you can increase the size of the text. I set mine to 40 but you're free to do whatever you would like here. Now once you have a size you're good with, go ahead and select the label box by left clicking. Hold ALT and drag it to the center. Your screen should look somewhat like this. 
 
 ![Alt Text](https://images2.imgbox.com/1e/92/KF7t9Lj7_o.png)
 
